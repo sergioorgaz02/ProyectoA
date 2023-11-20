@@ -13,6 +13,8 @@ public class HolaMundo {
 		int edad=51;
 		
 		System.out.println("Tu edad es " + edad + " años.");
+		
+		System.out.println("sincronizando");
 
 	}
 
