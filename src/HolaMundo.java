@@ -9,6 +9,10 @@ public class HolaMundo {
 		String nombre="Mario";
 		
 		System.out.println("Hola " + nombre);
+		
+		int edad=51;
+		
+		System.out.println("Tu edad es " + edad + " años.");
 
 	}
 
